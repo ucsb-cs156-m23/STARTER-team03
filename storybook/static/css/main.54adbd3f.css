@@ -12,5 +12,12 @@ body {
       monospace;
   }
   
+ .nav-link {
+    color: white;
+  }
 
-/*# sourceMappingURL=main.870abb29.css.map*/
+  .nav-link:hover {
+    color: rgb(174, 191, 59);
+  }
+
+/*# sourceMappingURL=main.54adbd3f.css.map*/
